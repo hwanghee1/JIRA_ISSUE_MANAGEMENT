@@ -1,2 +1,2 @@
-# JIRA_ISSUE_MANAGEMENT
-jira issue management tool
+# JIRA_ISSUE_MONITORING
+jira issue monitoring tool
